@@ -9,6 +9,6 @@ cd ~/.aztec && docker-compose up
 ### Compile contracts
 
 ```
-cd contracts
+cd contracts/shamir
 aztec-nargo compile
 ```

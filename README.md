@@ -12,3 +12,9 @@ cd ~/.aztec && docker-compose up
 cd contracts/shamir
 aztec-nargo compile
 ```
+
+### Update Aztec Sandbox
+
+```
+aztec-up
+```
